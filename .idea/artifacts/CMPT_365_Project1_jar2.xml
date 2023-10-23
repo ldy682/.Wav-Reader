@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CMPT_365_Project1:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/CMPT_365_Project1_jar2</output-path>
+    <root id="archive" name="CMPT_365_Project1.jar">
+      <element id="module-output" name="CMPT_365_Project1" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/21-ea+24/javafx-controls-21-ea+24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/21-ea+24/javafx-fxml-21-ea+24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/21-ea+24/javafx-fxml-21-ea+24-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/21-ea+24/javafx-base-21-ea+24.jar" path-in-jar="/" />
+      <element id="library" level="project" name="lib" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/21-ea+24/javafx-graphics-21-ea+24-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/21-ea+24/javafx-controls-21-ea+24-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/21-ea+24/javafx-graphics-21-ea+24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/21-ea+24/javafx-base-21-ea+24-linux.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/javafx-sdk-21/lib/javafx-swt.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/javafx-sdk-21/lib/javafx.base.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/javafx-sdk-21/lib/javafx.controls.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/javafx-sdk-21/lib/javafx.fxml.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/javafx-sdk-21/lib/javafx.graphics.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/javafx-sdk-21/lib/javafx.media.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/javafx-sdk-21/lib/javafx.swing.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/javafx-sdk-21/lib/javafx.web.jar" />
+    </root>
+  </artifact>
+</component>
